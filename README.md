@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, sou Marcio das Chagas</h1>
-<h3 align="center">Desenvolvedor full stack em construção, aguardando uma oportunidade de trabalho e apaixonado por programação.</h3>
+<h2 align="center">Desenvolvedor full stack em construção, aguardando uma oportunidade de trabalho e apaixonado por programação.</h2>
+<p> Sempre fui muito ligado a Esportes, entre eles esta pedalar que e uma coisa que pratico quase diariamente....:bike:  </p>
 
 - 🔭 Atualmente estou trabalhando em **Projetos pessoais e de estudo.**
 
@@ -11,5 +12,5 @@
 <h3 align="left">Idiomas e ferramentas:</h3>
 <p align="left">  <a href="https://www. w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/> </a>  <a href="https://www.figma .com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-us /sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  <a href="https:// reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt ="react" width="40" height="40"/> </a> </p>
 
-:bike:
+
 
