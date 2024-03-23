@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Marcio das Chagas</h1>
-<h2 align="center">Desenvolvedor full stack em construção, aguardando uma oportunidade de trabalho e apaixonado por programação.</h2>
+<h2 align="center">Desenvolvedor full stack em construção, aguardando uma oportunidade de trabalho e apaixonado por programação :computador:.</h2>
 <p> Sempre fui muito ligado a Esportes, e pedalar e um deles, que pratico quase diariamente.... :bike:  </p>
 
 - 🔭 Atualmente estou trabalhando em **Projetos pessoais e de estudo.**
