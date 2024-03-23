@@ -2,7 +2,7 @@
 <h2 align="center">Desenvolvedor full stack em construção, aguardando uma oportunidade de trabalho e apaixonado por programação.</h2> 
 <p> Sempre fui muito ligado a Esportes, e pedalar e um deles, que pratico quase diariamente.... :bike:  </p>
 <p> Estou Fazendo um curso da Alura com a Oracle de Front End com React, e outro em paralelo de Web Developer Full Stack .Net da Coti Informatica, estou no segundo periodo 
-de ADS pela Faculdade Veiga de Almeida, mas no momento esta trancada, estarei voltando assim que terminar o curso da Alura de Front.</p> 
+de ADS pela Faculdade Veiga de Almeida, mas no momento esta trancada, estarei voltando assim que terminar o curso da Alura de Front.</p> 🚀
 
 - 🔭 Atualmente estou trabalhando em **Projetos pessoais e de estudo.**
 
