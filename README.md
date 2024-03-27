@@ -8,7 +8,7 @@ de ADS pela Faculdade Veiga de Almeida, mas no momento esta trancada, estarei vo
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https:// linkedin.com/in/www.linkedin.com/in/marcio-chagas-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marcio-chagas-dev/" height="30" largura= "40" /></a>
+<a href="https:// linkedin.com/in/www.linkedin.com/in/marcio-chagas-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marcio-chagas-dev/" height="30" largura= "40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
