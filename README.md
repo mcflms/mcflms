@@ -4,14 +4,16 @@
 <p> Estou Fazendo um curso da Alura com a Oracle de Front End com React, e outro em paralelo de Web Developer Full Stack .Net da Coti Informatica, estou no segundo periodo 
 de ADS pela Faculdade Veiga de Almeida, mas no momento esta trancada, estarei voltando assim que terminar o curso da Alura de Front. 🚀</p> 
 
-- 🔭 Atualmente estou trabalhando em **Projetos pessoais e de estudo.**
+💻 Atualmente estou trabalhando em **Projetos Pessoais e de Estudo.**
+  
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marcio-chagas-dev">Linkedin</a>
+<a href="https://linkedin.com/in/marcio-chagas-dev"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left">  <a href="https://www. w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/> </a>  <a href="https://www.figma .com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-us /sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  <a href="https:// reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt ="react" width="40" height="40"/> </a> </p>
+<p align="left">  <a href="https://www. w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="50" height="50"/> </a>  <a href="https://www.figma .com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>  <a href="https://www.microsoft.com/en-us /sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a>  <a href="https:// reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt ="react" width="50" height="50"/> </a> </p>
 
+            
 
