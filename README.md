@@ -12,8 +12,11 @@ de ADS pela Faculdade Veiga de Almeida, mas no momento esta trancada, estarei vo
 <a href="https://linkedin.com/in/marcio-chagas-dev"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left">  <a href="https://www. w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="50" height="50"/> </a>  <a href="https://www.figma .com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>  <a href="https://www.microsoft.com/en-us /sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a>  <a href="https:// reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt ="react" width="50" height="50"/> </a> </p>
+<h3 align="left">Tecnologias e Ferramentas:</h3>
+
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">  <img src=""> 
+
+
 
             
 
